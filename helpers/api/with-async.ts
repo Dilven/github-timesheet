@@ -2,7 +2,6 @@ import { logger } from "@/config/logger";
 import Boom from "@hapi/boom";
 import { NextApiRequest, NextApiResponse } from "next";
 
-
 export const withAsync = (
   handler: (
     req: NextApiRequest,

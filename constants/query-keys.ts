@@ -1,1 +1,1 @@
-export const ITEMS = 'ITEMS'
+export const ITEMS = "ITEMS";

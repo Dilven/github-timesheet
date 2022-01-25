@@ -1,7 +1,9 @@
 ## About
+
 Boilerplate for quick check of ideas
 
 Includes
+
 - react
 - next
 - hapi/boom

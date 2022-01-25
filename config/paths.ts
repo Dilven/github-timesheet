@@ -1,7 +1,6 @@
 export const paths = {
-    home: "/",
-    api: {
-      items: "/api/items",
-    },
-  };
-  
+  home: "/",
+  api: {
+    items: "/api/items",
+  },
+};
